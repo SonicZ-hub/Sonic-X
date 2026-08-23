@@ -11,7 +11,7 @@ https://youtube.com/@sonicz-dev?si=gYlCjUugPIICIUn_
 
 Step 1 - Download
 
-git clone https://github.com/YOUR_USERNAME/Sonic-X.git
+git clone https://github.com/SonicZ-hub/Sonic-X/tree/main
 cd Sonic-X
 
 Or download sonicx.py manually and place it in a folder.
@@ -37,7 +37,7 @@ pkg install python git -y
 
 Step 3 - Download Sonic X
 
-git clone https://github.com/YOUR_USERNAME/Sonic-X.git
+git clone https://github.com/SonicZ-hub/Sonic-X/tree/main
 cd Sonic-X
 
 Step 4 - Run
@@ -95,4 +95,4 @@ $ python3 sonicx.py
 
 ---
 
-Sonic X - For authorized testing only.
+Sonic X - For education purposes testing only.
